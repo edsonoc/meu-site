@@ -1,0 +1,14 @@
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Tipo</th>
+      <th>Preço</th>
+      <th>Quartos</th>
+      <th>Cidade</th>
+    </tr>
+  </thead>
+  <tbody id="lista-imoveis">
+    <!-- Os imóveis aparecerão aqui -->
+  </tbody>
+</table>
