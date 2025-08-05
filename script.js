@@ -1,0 +1,1 @@
+alert("Seu site está funcionando com JavaScript!");
