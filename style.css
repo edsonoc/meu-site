@@ -27,3 +27,10 @@ footer {
   text-align: center;
   padding: 10px;
 }
+
+.nova-linha {
+  background-color: #d4edda;
+  transition: background-color 1s ease;
+}
+
+
